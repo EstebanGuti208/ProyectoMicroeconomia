@@ -78,3 +78,36 @@ hr {
     padding: 5px;
     margin-bottom: 150px;
 }
+
+#rocket {
+    width: 100px;
+    height: auto;
+}
+
+#fotoProblema {
+    width: 70px;
+    height: auto;
+}
+
+.fotoParticipantes {
+    width: 40px;
+    height: auto;
+}
+
+#mundo {
+    width: 200px;
+    height: auto;
+}
+
+#separator {
+    height: 220px;
+}
+
+#email {
+    width: 50%;
+    margin: auto;
+}
+
+#emailButton:hover {
+    background: lightblue;
+}
