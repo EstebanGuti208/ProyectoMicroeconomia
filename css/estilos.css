@@ -111,3 +111,28 @@ hr {
 #emailButton:hover {
     background: lightblue;
 }
+
+.datos {
+    font-size: 20px;
+}
+
+.agentes {
+    width: 90%;
+    height: 100%;
+    margin: 5%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-right: 5px;
+    padding-left: 5px;
+    background: rgba(61,206,231);
+    background: linear-gradient(90deg, rgba(61,206,231,1) 0%, rgba(153,206,217,0.8421743697478992) 100%);
+    border-radius: 10px;
+}
+
+.agentes:hover {
+    background: white;
+}
+
+#fotoChoque {
+    width: 90%;
+}
