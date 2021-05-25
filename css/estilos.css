@@ -209,9 +209,6 @@ hr {
     margin-bottom: 25px;
 }
 
-.montoAseguradora {
-}
-
 #dosAseguradoras {
     display: flex;
     flex-direction: row;
