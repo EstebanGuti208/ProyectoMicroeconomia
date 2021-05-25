@@ -197,8 +197,23 @@ hr {
 
 #paginaSolucion {
     display: "block";
+    margin-bottom: 20px;
 }
 
 #paginaImplementacion {
     visibility: "block";
+}
+
+#simulacion {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.montoAseguradora {
+}
+
+#dosAseguradoras {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
